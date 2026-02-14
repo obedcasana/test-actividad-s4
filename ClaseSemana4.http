@@ -1,0 +1,6 @@
+@ClaseSemana4_HostAddress = http://localhost:5164
+
+GET {{ClaseSemana4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
